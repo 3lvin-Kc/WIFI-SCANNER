@@ -7,6 +7,7 @@ Real-Time Updates: Smooth animations create an engaging user experience.
 
 Cross-Platform Support: Runs seamlessly on various operating systems.
 
+![alt text](https://github.com/3lvin-Kc/WIFI-SCANNER/blob/master/Screenshot%202024-11-02%20094831.png?raw=true)
 
 
 
